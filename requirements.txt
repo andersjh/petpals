@@ -2,5 +2,5 @@ flask
 flask-sqlalchemy
 pandas
 psycopg2
-psychop2-binary
+psycop2-binary
 gunicorn
